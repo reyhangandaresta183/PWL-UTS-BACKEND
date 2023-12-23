@@ -1,0 +1,6 @@
+grpcio
+grpcio-tools
+alembic
+PyMySQL
+SQLAlchemy
+mysql-connector-python
